@@ -1,12 +1,17 @@
 # wallpaper-collection
 
-A personal collection of wallpapers I gather for everyday use. It'll keep growing, so check back once in a while.
+A personal collection of wallpapers I gather for everyday use. Currently contains 24 folders across 200+ wallpapers, with new collections added regularly.
 
 ## What's inside
 
 | Folder | Contents |
 | --- | --- |
+| `anime-walls/` | Anime-inspired wallpapers |
+| `black-walls/` | Dark-themed wallpapers |
+| `distro-walls/` | Distribution/operating system wallpapers |
+| `specials-membership/` | Special membership wallpapers |
 | `sketch-walls/` | Black-and-white lineart sketches, simple and clean |
+| `white-walls/` | White-themed wallpapers |
 
 More folders will show up as the collection grows.
 
